@@ -59,11 +59,11 @@ main{
 }
 
 .produtos{
-    background-color: #ecf1f3;
-    /* background-image: url(/img/bannerprod1.jpeg);
+    /*background-color: #ecf1f3;*/
+    background-image: url(/img/bannerprod1.jpeg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -94,11 +94,11 @@ main{
 }
 
 .servicos{
-    background-color: #ef233c;
-    /* background-image: url(/img/bannerserv.jpeg);
+    /*background-color: #ef233c;*/
+    background-image: url(/img/bannerserv.jpeg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
